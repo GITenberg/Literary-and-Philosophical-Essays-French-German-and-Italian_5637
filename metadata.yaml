@@ -1,4 +1,5 @@
 _repo: Literary-and-Philosophical-Essays-French-German-and-Italian_5637
+_version: 0.1.0
 creator:
   authors:
   - agent_name: Montaigne, Michel de
@@ -12,7 +13,7 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Michel_de_Montaigne
   - agent_name: Mazzini, Giuseppe
     alias: Brown, Giorgio Rossi
-    birthdate: &id002 1805
+    birthdate: 1805
     deathdate: 1872
     gutenberg_agent_id: '33687'
     url: http://www.gutenberg.org/2009/agents/33687
@@ -37,7 +38,7 @@ creator:
     aliases:
     - Sainte-Beuve, C.-A. (Charles Augustin)
     - Delorme, Joseph
-    birthdate: &id001 1804
+    birthdate: 1804
     deathdate: 1869
     gutenberg_agent_id: '5145'
     url: http://www.gutenberg.org/2009/agents/5145
@@ -47,7 +48,7 @@ creator:
     - Kant, Emmanuel
     - Kant, I. (Immanuil)
     birthdate: 1724
-    deathdate: *id001
+    deathdate: 1804
     gutenberg_agent_id: '1426'
     url: http://www.gutenberg.org/2009/agents/1426
     wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
@@ -56,7 +57,7 @@ creator:
     - Schiller, Friedrich von
     - Schiller, Johann Christoph Friedrich von
     birthdate: 1759
-    deathdate: *id002
+    deathdate: 1805
     gutenberg_agent_id: '289'
     url: http://www.gutenberg.org/2009/agents/289
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
