@@ -1,5 +1,5 @@
 _repo: Literary-and-Philosophical-Essays-French-German-and-Italian_5637
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -83,6 +83,7 @@ subjects:
 - !lcc 'PN'
 - !lcc 'AC'
 - !lcsh 'Essays'
+- GITenberg
 tableOfContents: That we should not judge of our happiness until after our death.
   That to philosophise is to learne how to die. Of the institution and education of
   children. Of friendship. Of bookes. By Montaigne -- Montaigne. What is a classic?
